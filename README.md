@@ -1,4 +1,4 @@
-About me 👋
+<h1>  About me 👋 </h1>
 <hr>
 <ul>
   <li>Name: Nguyễn Trung Anh</li>
