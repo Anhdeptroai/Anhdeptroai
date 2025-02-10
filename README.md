@@ -5,9 +5,7 @@
   <li>Email: anhzero816@gmail.com</li>
   <li>Tester | Deverloper</li>
 </ul>
-
-<br>
-
+<hr>
 - 🔭 I’m currently working on Sai Gon University.
 - 🌱 I’m currently learning at Sai Gon University.
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +14,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<br>
+<hr>
