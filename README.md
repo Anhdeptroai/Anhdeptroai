@@ -1,6 +1,6 @@
-## Hi there 👋
+## About me 👋
 
-Here are some ideas to get you started:
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
