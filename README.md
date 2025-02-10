@@ -1,5 +1,4 @@
 <h1>  About me 👋 </h1>
-<hr>
 <ul>
   <li>Name: Nguyễn Trung Anh</li>
   <li>Email: anhzero816@gmail.com</li>
