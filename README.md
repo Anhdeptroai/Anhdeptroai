@@ -1,8 +1,8 @@
 ## About me 👋
 <br>
-<selettion>
-  - ⚡ Fun fact: ...
-</selettion>
+<ul>
+  <li>- 🔭 I’m currently working on Sai Gon University.</li>
+</ul>
 - 🔭 I’m currently working on Sai Gon University.
 - 🌱 I’m currently learning at Sai Gon University.
 - 👯 I’m looking to collaborate on ...
