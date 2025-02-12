@@ -3,18 +3,19 @@
   <li>Name: Nguyễn Trung Anh</li>
   <li>Email: anhzero816@gmail.com</li>
   <li>Tester | Deverloper</li>
+  <li>My CV: https://www.overleaf.com/project/67ac0c2bb00f56184ac0a5e4</li>
 </ul>
 <hr>
 
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">Details about me</h3>
 
-- 🔭 I’m currently working on **Sai Gon University**
+- Who I am ?
+I am 
+- What do I do ?
 
-- 🌱 I’m currently learning **Sai Gon University**
+- Other:
 
-- 🤝 I’m looking for help with **everyone**
 
-- 📫 How to reach me **anhzero816@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and joke**
 
