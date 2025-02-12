@@ -7,13 +7,13 @@
 </ul>
 <hr>
 
-<h3 align="center">Details about me</h3>
+<h2 align="center">Details about me</h2>
 
-  <h4>Who am I? </h4>
+  <h3>Who am I? </h3>
     <p>Hi everyone, My name is Nguyễn Trung Anh.I am 22 years old. I am tester and frontend develop. </p>
-  <h4>What do I do ?</h4>
+  <h3>What do I do ?</h3>
     <p></p>
-  <h4>Other:</h4>
+  <h3>Other:</h3>
     <p>I think I am funny and joke. Sometime I take photo at some where around Ho Chi Minh city. Besides writing code, I also edit video.</p>
   
 
