@@ -5,17 +5,7 @@
   <li>Tester | Deverloper</li>
 </ul>
 <hr>
-- 🔭 I’m currently working on Sai Gon University.<br>
-- 🌱 I’m currently learning at Sai Gon University.<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
-<hr>
 
-<h1 align="center">Hi 👋, I'm Anhdeptroai</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on **Sai Gon University**
