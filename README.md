@@ -10,11 +10,11 @@
 <h2 align="center">Details about me</h2>
 
   <h3>Who am I? </h3>
-    <p>Hi everyone, My name is Nguyễn Trung Anh.I am 22 years old. I am tester and frontend develop. </p>
+    <p>Hi everyone, My name is Nguyễn Trung Anh. I am 22 years old.</p>
   <h3>What do I do ?</h3>
-    <p></p>
+    <p>I am tester and frontend develop.</p>
   <h3>Other:</h3>
-    <p>I think I am funny and joke. Sometime I take photo at some where around Ho Chi Minh city. Besides writing code, I also edit video.</p>
+    <p>I think I am funny and joke. Sometime, I take photo at some where around Ho Chi Minh city. Besides writing code, I also edit video.</p>
   
 
 <h3 align="left">Connect with me:</h3>
