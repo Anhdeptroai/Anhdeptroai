@@ -14,7 +14,7 @@
   <h3>What do I do ?</h3>
     <p>I am tester and frontend develop.</p>
   <h3>Other:</h3>
-    <p>I think I am funny and joke. Sometime, I take photo at some where around Ho Chi Minh city. Besides writing code, I also edit video.</p>
+    <p>I think I am funny and joke. Sometime, I take photo at some where around Ho Chi Minh city. Besides writing code, I also edit video on the youtube and tiktok.</p>
   
 
 <h3 align="left">Connect with me:</h3>
